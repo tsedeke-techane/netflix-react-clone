@@ -9,18 +9,10 @@
   --secondary-color: #e50914;
 }
 
-* {
+body {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
-}
-
-.App {
-  background-color: rgb(195, 179, 211);
-  color: white;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
+  background-color: #111;
+  color: #fff;
 }
